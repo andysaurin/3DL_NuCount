@@ -6,6 +6,7 @@
 | Paper          | Coming soon ! |
 | Training Dataset | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7692392.svg)](https://doi.org/10.5281/zenodo.7692392) |
 | NuCount Model  | [![DOI](https://img.shields.io/badge/huggingface-model-yellow)](https://doi.org/10.57967/hf/0418) |
+| Code           | [![DOI](https://zenodo.org/badge/608079887.svg)](https://zenodo.org/badge/latestdoi/608079887) |
 
 ## 1 - Setup Environment
 
